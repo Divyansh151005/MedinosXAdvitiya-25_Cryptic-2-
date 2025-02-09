@@ -16,9 +16,6 @@ This guide provides step-by-step instructions to set up your project environment
 
 ## Installing FFmpeg and PortAudio
 
-## Getting GROQ Api key and ELEVENLABS api key and pasting in required loctaion (*voice_of_doctor , gradio_app etc)
-## Create yout .env file and add your GROQ_API_KEY
-
 ### macOS
 
 1. **Install Homebrew** (if not already installed):
@@ -155,4 +152,3 @@ python voice_of_the_doctor.py
 python gradio_app.py
 ```
 
-# MedinosXAdvitiya-25_Cryptic-2-

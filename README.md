@@ -14,8 +14,8 @@ This guide provides step-by-step instructions to set up your project environment
    - [Using Conda](#using-conda)
 3. [Running the application](#project-phases-and-python-commands)
 
-4. ## Getting GROQ Api key and ELEVENLABS api key and pasting in required loctaion (*voice_of_doctor , gradio_app etc)
-## Create yout .env file and add your GROQ_API_KEY
+ [ Getting GROQ Api key and ELEVENLABS api key and pasting in required loctaion (*voice_of_doctor , gradio_app etc)]
+[ Create yout .env file and add your GROQ_API_KEY ]
 
 ## Installing FFmpeg and PortAudio
 
